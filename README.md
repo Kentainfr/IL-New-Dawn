@@ -10,7 +10,7 @@ A loading screen for FiveM by Infinity Legion.
  
  # Support
  
-  - Discord: https://discord.gg/tanPeMd
+  - Discord: https://discord.gg/EDRbwTEpDu
 
 # Example
  
